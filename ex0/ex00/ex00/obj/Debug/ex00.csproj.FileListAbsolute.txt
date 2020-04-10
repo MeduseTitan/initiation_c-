@@ -1,0 +1,15 @@
+C:\Users\pierr\Desktop\Projet\WORKSHOP\ex0\ex00\ex00\bin\Debug\ex00.exe.config
+C:\Users\pierr\Desktop\Projet\WORKSHOP\ex0\ex00\ex00\bin\Debug\ex00.exe
+C:\Users\pierr\Desktop\Projet\WORKSHOP\ex0\ex00\ex00\bin\Debug\ex00.pdb
+C:\Users\pierr\Desktop\Projet\WORKSHOP\ex0\ex00\ex00\obj\Debug\ex00.csprojAssemblyReference.cache
+C:\Users\pierr\Desktop\Projet\WORKSHOP\ex0\ex00\ex00\obj\Debug\MainWindow.g.cs
+C:\Users\pierr\Desktop\Projet\WORKSHOP\ex0\ex00\ex00\obj\Debug\App.g.cs
+C:\Users\pierr\Desktop\Projet\WORKSHOP\ex0\ex00\ex00\obj\Debug\ex00_MarkupCompile.cache
+C:\Users\pierr\Desktop\Projet\WORKSHOP\ex0\ex00\ex00\obj\Debug\ex00_MarkupCompile.lref
+C:\Users\pierr\Desktop\Projet\WORKSHOP\ex0\ex00\ex00\obj\Debug\MainWindow.baml
+C:\Users\pierr\Desktop\Projet\WORKSHOP\ex0\ex00\ex00\obj\Debug\ex00.g.resources
+C:\Users\pierr\Desktop\Projet\WORKSHOP\ex0\ex00\ex00\obj\Debug\ex00.Properties.Resources.resources
+C:\Users\pierr\Desktop\Projet\WORKSHOP\ex0\ex00\ex00\obj\Debug\ex00.csproj.GenerateResource.cache
+C:\Users\pierr\Desktop\Projet\WORKSHOP\ex0\ex00\ex00\obj\Debug\ex00.csproj.CoreCompileInputs.cache
+C:\Users\pierr\Desktop\Projet\WORKSHOP\ex0\ex00\ex00\obj\Debug\ex00.exe
+C:\Users\pierr\Desktop\Projet\WORKSHOP\ex0\ex00\ex00\obj\Debug\ex00.pdb
